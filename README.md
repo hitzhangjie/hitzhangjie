@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on:
+  - [debugger101](https://github.com/debugger101], which introduces how to develop a go debugger
+  - [gorpc101](https://github.com/gorpc101], which introduces how to develop a microservice framework
+  - [libmill](https://github.com/hitzhangjie/libmill-book], which introduces the libmill go-style coroutine library
+- 🌱 I’m currently learning:
+  - [distributed sytem](https://github.com/hitzhangjie/distributed-system-series)
+  - [kubernetes](https://kubernetes.feisky.xyz/)
+  - [cpu architecture](https://docs.boom-core.org/en/latest/sections/intro-overview/boom-pipeline.html)
+- ⚡ Fun fact: 
+  - keep writing [blogs](https://www.hitzhangjie.pro/#%E5%8D%9A%E5%AE%A2) every week
+
 <!--
 **hitzhangjie/hitzhangjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
