@@ -26,12 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<audio id="music-player" autoplay controls>
-    <source type="audio/mp3" src="https://webfs.yun.kugou.com/202104080013/9e674c6831f9e01abcc1ec89b79a84fc/G103/M03/18/11/R5QEAFvsUeWAc6GqAC5YF1JSTTI941.mp3"></source>
-    <p>Your browser does not support the audio element.</p>
-</audio>
 
-<script>
-    var player = document.getElementById("music-player");
-    player.volume = 0.2;
-</script>
