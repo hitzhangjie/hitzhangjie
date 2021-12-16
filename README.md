@@ -14,7 +14,9 @@
   - keep writing [blogs](https://www.hitzhangjie.pro/#%E5%8D%9A%E5%AE%A2) every week
 - > Useful utilities:
   - [toc](https://github.com/hitzhangjie/toc), scans your folders and generate SUMMARY.md automatically
-  - [notion](https://github.com/hitzhangjie/), read CSV exported by Notion and generates markdowns with liquid tags
+  - [notion](https://github.com/hitzhangjie/notion), read CSV exported by Notion and generates markdowns with liquid tags
+  - [wc](https://github.com/hitzhangjie/wc), an alternate to GNU `wc`, which outputs more clearer
+  - [rm](https://github.com/hitzhangjie/rm), an alternate to GNU `rm`, which reduces mistakes of deletion effectively
 
 <!--
 **hitzhangjie/hitzhangjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
