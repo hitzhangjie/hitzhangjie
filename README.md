@@ -12,6 +12,9 @@
   - [cpu architecture](https://docs.boom-core.org/en/latest/sections/intro-overview/boom-pipeline.html)
 - ⚡ Fun fact: 
   - keep writing [blogs](https://www.hitzhangjie.pro/#%E5%8D%9A%E5%AE%A2) every week
+- > Useful utilities:
+  - [toc](https://github.com/hitzhangjie/toc), scans your folders and generate SUMMARY.md automatically
+  - [notion](https://github.com/hitzhangjie/), read CSV exported by Notion and generates markdowns with liquid tags
 
 <!--
 **hitzhangjie/hitzhangjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
