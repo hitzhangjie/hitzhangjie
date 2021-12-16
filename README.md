@@ -4,7 +4,8 @@
   - [debugger101](https://www.hitzhangjie.pro/debugger101.io), describes how to develop a go debugger
   - [gorpc101](https://www.hitzhangjie.pro/gorpc101), describes how to develop a microservice framework
   - [libmill](https://www.hitzhangjie.pro/libmill-book), describes the libmill go-style coroutine library
-  - [go internals](https://www.hitzhangjie.pro/go-internals/), which describes nearly every aspect of golang internals
+  - [go internals](https://www.hitzhangjie.pro/go-internals/), (try to) describes nearly every aspect of golang internals
+  - [go internals](https://www.hitzhangjie.pro/go-internals-v2/), (try to) describes nearly every aspect of golang internals
 - 🌱 I’m currently learning:
   - [distributed sytem](https://github.com/hitzhangjie/distributed-system-series)
   - [kubernetes](https://kubernetes.feisky.xyz/)
