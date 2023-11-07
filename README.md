@@ -6,6 +6,7 @@
   - [libmill](https://www.hitzhangjie.pro/libmill-book), describes the libmill go-style coroutine library
   - [go internals](https://www.hitzhangjie.pro/go-internals/), (try to) describes nearly every aspect of golang internals
   - ~~[go internals](https://www.hitzhangjie.pro/go-internals-v0/), (try to) describes nearly every aspect of golang internals~~
+  - [go patterns](https://github.com/hitzhangjie/go-patterns), common design patterns in Go
 - 🌱 I’m currently learning:
   - [distributed sytem](https://github.com/hitzhangjie/distributed-system-series)
   - [kubernetes](https://kubernetes.feisky.xyz/)
