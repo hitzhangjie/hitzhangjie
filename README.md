@@ -18,6 +18,7 @@
   - [notion](https://github.com/hitzhangjie/notion), read CSV exported by Notion and generates markdowns with liquid tags
   - [wc](https://github.com/hitzhangjie/wc), an alternate to GNU `wc`, which outputs more clearer
   - [rm](https://github.com/hitzhangjie/rm), an alternate to GNU `rm`, which effectively reduces mistakes of deletion
+  - [red](https://github.com/hitzhangjie/red), a log analysis tool, which aggregates similar events to help discover the problems
 
 <!--
 **hitzhangjie/hitzhangjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
