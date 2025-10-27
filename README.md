@@ -7,18 +7,22 @@
   - [go internals](https://www.hitzhangjie.pro/go-internals/), (try to) describes nearly every aspect of golang internals
   - ~~[go internals](https://www.hitzhangjie.pro/go-internals-v0/), (try to) describes nearly every aspect of golang internals~~
   - [go patterns](https://github.com/hitzhangjie/go-patterns), common design patterns in Go
+  - keep writing [blogs](https://www.hitzhangjie.pro/#%E5%8D%9A%E5%AE%A2) every week
 - 🌱 I’m currently learning:
   - [distributed sytem](https://github.com/hitzhangjie/distributed-system-series)
   - [kubernetes](https://kubernetes.feisky.xyz/)
   - [cpu architecture](https://docs.boom-core.org/en/latest/sections/intro-overview/boom-pipeline.html)
-- ⚡ Fun fact: 
-  - keep writing [blogs](https://www.hitzhangjie.pro/#%E5%8D%9A%E5%AE%A2) every week
+  - [machine learning](https://www.youtube.com/watch?v=3oAY1j5-KIg&list=PLULgBZmS3YWRXpqgJTOq9m_nU4oyEVyj4)
+  - [ai]()
+
+<!--
 - 🦮 Useful utilities:
   - [toc](https://github.com/hitzhangjie/toc), scans your folders and generate SUMMARY.md automatically
   - [notion](https://github.com/hitzhangjie/notion), read CSV exported by Notion and generates markdowns with liquid tags
   - [wc](https://github.com/hitzhangjie/wc), an alternate to GNU `wc`, which outputs more clearer
   - [rm](https://github.com/hitzhangjie/rm), an alternate to GNU `rm`, which effectively reduces mistakes of deletion
   - [red](https://github.com/hitzhangjie/red), a log analysis tool, which aggregates similar events to help discover the problems
+-->
 
 <!--
 **hitzhangjie/hitzhangjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
