@@ -13,7 +13,6 @@
   - [kubernetes](https://kubernetes.feisky.xyz/)
   - [cpu architecture](https://docs.boom-core.org/en/latest/sections/intro-overview/boom-pipeline.html)
   - [machine learning](https://www.youtube.com/watch?v=3oAY1j5-KIg&list=PLULgBZmS3YWRXpqgJTOq9m_nU4oyEVyj4)
-  - [ai]()
 
 <!--
 - 🦮 Useful utilities:
