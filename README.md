@@ -13,11 +13,10 @@
   - [kubernetes](https://kubernetes.feisky.xyz/)
   - [cpu architecture](https://docs.boom-core.org/en/latest/sections/intro-overview/boom-pipeline.html)
   - [machine learning](https://www.youtube.com/watch?v=3oAY1j5-KIg&list=PLULgBZmS3YWRXpqgJTOq9m_nU4oyEVyj4)
-
-<!--
 - 🦮 Useful utilities:
   - [git-vis](https://github.com/hitzhangjie/git-vis), shows how git works
   - [dwarfviewer)(https://github.com/hitzhangjie/dwarfviewer), read, show DWARF data and nagivate in it
+<!--
   - [toc](https://github.com/hitzhangjie/toc), scans your folders and generate SUMMARY.md automatically
   - [notion](https://github.com/hitzhangjie/notion), read CSV exported by Notion and generates markdowns with liquid tags
   - [wc](https://github.com/hitzhangjie/wc), an alternate to GNU `wc`, which outputs more clearer
