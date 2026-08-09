@@ -15,7 +15,7 @@
   - [machine learning](https://www.youtube.com/watch?v=3oAY1j5-KIg&list=PLULgBZmS3YWRXpqgJTOq9m_nU4oyEVyj4)
   - [artificial intelligence](https://github.com/hitzhangjie/grokking-ai), well, some basics knowledge and testcases including transformers, llm, agents
 - 🦮 Useful utilities:
-  - [winbox](https://github.com/hitzhangjie/winbox), better alternative to powertoys, listary, find everything
+  - [winbox](https://github.com/hitzhangjie/winbox), better alternative to powertoys, listary or everything
   - [ruminate](https://github.com/hitzhangjie/ruminate), an easy to use LLM Wiki solution
   - [dwarfviewer](https://github.com/hitzhangjie/dwarfviewer), read, show DWARF data and nagivate in it
   - [git-vis](https://github.com/hitzhangjie/git-vis), shows how git works
