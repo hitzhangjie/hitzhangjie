@@ -6,7 +6,6 @@
   - [gorpc101](https://www.hitzhangjie.pro/gorpc101), describes how to develop a microservice framework
   - [libmill](https://www.hitzhangjie.pro/libmill-book), describes the libmill go-style coroutine library
   - [go internals](https://www.hitzhangjie.pro/go-internals/), (try to) describes nearly every aspect of golang internals
-  - ~~[go internals](https://www.hitzhangjie.pro/go-internals-v0/), (try to) describes nearly every aspect of golang internals~~
   - [go patterns](https://github.com/hitzhangjie/go-patterns), common design patterns in Go
 - 🌱 I’m currently learning:
   - [distributed sytem](https://github.com/hitzhangjie/distributed-system-series)
@@ -43,6 +42,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+writing:
+- ~~[go internals](https://www.hitzhangjie.pro/go-internals-v0/), (try to) describes nearly every aspect of golang internals~~
 -->
 
 
